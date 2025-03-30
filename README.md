@@ -40,4 +40,19 @@ An exploratory data analysis (EDA) project that analyzes retail store sales and 
 🔹 Key Features:
 ✔️ Sales and Profit Distribution Analysis
 ✔️ Visualizations for Performance Trends
-✔️ Business Insights for Optimization
+✔️ Business Insights for Optimization   
+
+
+3️⃣ NLP Model Using GPT-2 🧠
+📌 Description:
+A GPT-2-based Language Model (LM) implemented using Hugging Face's Transformers to analyze text generation and context understanding.
+
+🛠 Tech Stack:
+
+🐍 Python, Transformers (Hugging Face), PyTorch
+🤖 Pre-trained GPT-2 Model
+📝 Text Generation & Fine-Tuning
+🔹 Key Features:
+✔️ GPT-2 Model Implementation
+✔️ Contextual Text Generation Analysis
+✔️ Performance Evaluation & Insights
