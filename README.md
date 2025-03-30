@@ -21,11 +21,6 @@ A regression-based ML model that predicts house prices in Boston based on key fe
 ✔️ Model Training & Evaluation
 ✔️ Performance Metrics (RMSE, R² Score)
 
-📈 Results:
-
-✅ Test RMSE: 2.6278
-
-✅ Test R² Score: 0.9058
 
 2️⃣ Store Sales and Profit Analysis 📈
 📌 Description:
