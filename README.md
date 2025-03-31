@@ -23,21 +23,14 @@ A regression-based ML model that predicts house prices in Boston based on key fe
 ✔️ Performance Metrics (RMSE, R² Score)
 
 
-2️⃣ Store Sales and Profit Analysis 📈
-📌 Description:
-An exploratory data analysis (EDA) project that analyzes retail store sales and profit trends to derive business insights.
-
-🛠 Tech Stack:
-
-🐍 Python, Pandas, Matplotlib, Seaborn
-
-📊 Data Visualization & Trend Analysis
-
-🔹 Key Features:
-✔️ Sales and Profit Distribution Analysis
-✔️ Visualizations for Performance Trends
-✔️ Business Insights for Optimization   
-
+2️⃣ Car Price Prediction 🚗
+Description: A regression-based ML model that predicts car prices based on factors like brand, mileage, engine capacity, and fuel type.
+Tech Stack: Python, Flask, Pandas, NumPy, Scikit-Learn, RandomForestRegressor, Pickle.
+Key Features:
+Data Cleaning & Preprocessing.
+Feature Engineering (Years Since Manufacture, One-Hot Encoding).
+Model Training & Evaluation 
+REST API Implementation using Flask
 
 3️⃣ NLP Model Using GPT-2 🧠
 📌 Description:
